@@ -9,7 +9,7 @@
   
 [badges I got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, at least that how i did it]: #  
 <div id="badges">
-<a href="https://www.linkedin.com/in/aye7ia/">
+<a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:aymanye7ia@gmail.com">
@@ -39,7 +39,7 @@ I am a fast learner and a team player. I enjoy collaborating with others to iden
 ## <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h1>
 <p align="center">
 <a href="https://twitter.com/aYe7iia" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aye7ia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
 <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 </p>
